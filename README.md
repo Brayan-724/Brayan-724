@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Brayan-724
-- 👀 I’m interested in __Web Games__
-- 🌱 I’m currently learning __Game Desing__
-- 💞️ I’m looking how to collaborate with __Anyone__
-- 📫 How to reach me __Make a simple humanoid robot__
+- 👀 I’m interested in __Web fullstack__
+- 🌱 I’m currently learning __How to use mysql with node__
+- 💞️ I’m looking how to collaborate with __Nasgar__
+- 📫 How to reach me __\\_/__
 
 <!---
 Brayan-724/Brayan-724 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
