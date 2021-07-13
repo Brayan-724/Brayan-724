@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brayan-724
 - 👀 I’m interested in __Web fullstack__
-- 🌱 I’m currently learning __How to use mysql with node__
+- 🌱 I’m currently learning __Nothing__
 - 💞️ I’m looking how to collaborate with __Nasgar__
 - 📫 How to reach me __\\_/__
 
