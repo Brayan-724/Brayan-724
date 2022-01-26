@@ -1,14 +1,32 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-__[DEV]__ _Nasgar Network_
+# Tecnology used
 
-- 👋 Hi, I’m @Brayan-724
-- 👀 I’m interested in __Web fullstack__
-- 🌱 I’m currently learning __Nothing__
-- 💞️ I’m looking how to collaborate with __Nasgar__
-- 📫 How to reach me __\\_/__
+## Languages
+- JS
+- Html 5/Css 3
+- C#
+- C++
 
-[Nasgar Network Discord](https://discord.gg/68FrwtW)
-<!---
-Brayan-724/Brayan-724 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Tech
++ Ejs
++ NodeJS
++ React
++ Vue
++ Next
++ RakkasJS
++ Vite
++ Express
+
+## Editors
++ Neovim/Vim
++ Visual Studio Code  **Actual**
++ Sublime Text 3
++ Visual Studio
+
+## OS's
++ Linux  **Actual**
++ Windows
+
+
+###### Maded in Neovim ;)
