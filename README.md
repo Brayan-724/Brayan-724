@@ -20,14 +20,14 @@
 [![Express](https://img.shields.io/static/v1?message=-&logoColor=white&style=for-the-badge&label=Express&logo=Express&labelColor=black)](https://expressjs.com/)
 
 #### Editors
-[![Visual Studio Code](https://img.shields.io/static/v1?message=Actual&label=vscode&style=for-the-badge&logo=visualstudiocode&labelColor=007ACC)](https://code.visualstudio.com)
-[![Neovim/Vim](https://img.shields.io/static/v1?message=-&logoColor=white&label=nvim&style=for-the-badge&logo=neovim&labelColor=57A143)](https://neovim.io)
+[![Visual Studio Code](https://img.shields.io/static/v1?message=-&label=vscode&style=for-the-badge&logo=visualstudiocode&labelColor=007ACC)](https://code.visualstudio.com)
+[![Neovim/Vim](https://img.shields.io/static/v1?message=Actual&logoColor=white&label=nvim&style=for-the-badge&logo=neovim&labelColor=57A143)](https://neovim.io)
 [![Sublime Text 3](https://img.shields.io/static/v1?message=-&logoColor=white&label=sublime%20text&style=for-the-badge&logo=sublimetext&labelColor=FF9800)](https://www.sublimetext.com)
 [![Visual Studio](https://img.shields.io/static/v1?message=-&logoColor=white&label=visual%20studio&style=for-the-badge&logo=visualstudio&labelColor=5C2D91)](https://visualstudio.microsoft.com/)
 
 #### OS's
-[![Linux](https://img.shields.io/static/v1?message=Actual&logoColor=white&style=for-the-badge&label=linux&logo=linux)](https://en.wikipedia.org/wiki/GNU/Linux)
-[![Windows](https://img.shields.io/static/v1?message=-&logoColor=white&style=for-the-badge&label=windows&logo=windows&labelColor=0078D6)](https://www.microsoft.com/windows)
+[![Linux](https://img.shields.io/static/v1?message=-&logoColor=white&style=for-the-badge&label=linux&logo=linux)](https://en.wikipedia.org/wiki/GNU/Linux)
+[![Windows](https://img.shields.io/static/v1?message=Actual&logoColor=white&style=for-the-badge&label=windows&logo=windows&labelColor=0078D6)](https://www.microsoft.com/windows)
 
 
 ---
