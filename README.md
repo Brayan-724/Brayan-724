@@ -2,17 +2,19 @@
   <img width="250" src="./undraw_pic_profile_re_1865.svg" />
   
   <h1>Apika Luca</h1>
+  <p>
+    Welcome.<br/>
+    I'm Brayan, a boy who learns very quickly. <br/>
+    It's been 4 years since my first touch with web development and I learned how to make little complex web games.<br/>
+    After that, I did my first big web project, a web app for a minecraft server network. That web had a beautiful and consistent design (by me), a news page with markdown support, a shop system, also had a complete system to modify everything and connection to the minecraft server without custom plugin. The shop system had a cart, payments, offers, and coupons.<br/>
+    <b>The reason for not showing it is that I lost access to the repository and the boss overwrote my work.</b>
+  </p>
 </div>
 
 <div align="center">
-  <img width="100" />
   <a align="left" href="https://github.com/ryo-ma/github-profile-trophy">
     <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Brayan-724&column=4&theme=darkhub&margin-w=7&&margin-h=7" />
   </a>
-  
-  <img width="100" />
-  
-  <img width="250" src="https://user-images.githubusercontent.com/70247585/197420825-f8abce8a-b019-49d2-bc2c-24144d0e9706.svg" />
 </div>
 
 ## Languages
