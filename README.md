@@ -13,7 +13,7 @@
 
 <div align="center">
   <a align="left" href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Brayan-724&column=4&theme=darkhub&margin-w=7&&margin-h=7" />
+    <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Brayan-724&column=4&theme=darkhub&margin-w=10&&margin-h10&no-bg=true&no-frame=true" />
   </a>
 </div>
 
