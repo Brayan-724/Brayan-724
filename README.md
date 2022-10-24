@@ -33,7 +33,8 @@
 
 ## Tech
 <img align="left" width="250" src="https://user-images.githubusercontent.com/70247585/197420530-3a815f98-97d8-4657-b697-15d093adcfca.svg" />
-
+<div align="right">
+  
 [![Ejs](https://img.shields.io/static/v1?message=-&logoColor=black&style=for-the-badge&label=ejs&logo=jss&labelColor=F7DF1E)](https://ejs.co)
 [![NodeJS](https://img.shields.io/static/v1?message=-&logoColor=white&style=for-the-badge&label=NodeJS&logo=node.js&labelColor=339933)](https://nodejs.org/en/)
 [![Deno](https://img.shields.io/static/v1?message=-&logoColor=white&style=for-the-badge&label=deno&logo=deno&labelColor=black)](https://deno.land)
@@ -44,6 +45,7 @@
 [![Express](https://img.shields.io/static/v1?message=-&logoColor=white&style=for-the-badge&label=Express&logo=Express&labelColor=black)](https://expressjs.com/)
 
 <img height="100" />
+</div>
 
 ## Editors
 <img align="right" width="250" src="https://user-images.githubusercontent.com/70247585/197420172-e3bc6ac6-5ba6-415e-bbc4-3e20d60615e3.svg" />
@@ -56,6 +58,9 @@
 
 ## OS's
 <img align="left" width="250" src="https://user-images.githubusercontent.com/70247585/197420649-aaa91a5e-a052-44ef-b9aa-25f09157b80b.svg" />
+<div align="right">
 
 [![Linux](https://img.shields.io/static/v1?message=-&logoColor=white&style=for-the-badge&label=linux&logo=linux)](https://en.wikipedia.org/wiki/GNU/Linux)
 [![Windows](https://img.shields.io/static/v1?message=Actual&logoColor=white&style=for-the-badge&label=windows&logo=windows&labelColor=0078D6)](https://www.microsoft.com/windows)
+
+</div>
