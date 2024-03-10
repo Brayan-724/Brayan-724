@@ -5,9 +5,9 @@
   <p>
     Welcome.<br/>
     I'm Brayan, a boy who learns very quickly. <br/>
-    It's been 4 years since my first touch with web development and I learned how to make little complex web games.<br/>
-    After that, I did my first big web project, a web app for a minecraft server network. That web had a beautiful and consistent design (by me), a news page with markdown support, a shop system, also had a complete system to modify everything and connection to the minecraft server without custom plugin. The shop system had a cart, payments, offers, and coupons.<br/>
-    <b>The reason for not showing it is that I lost access to the repository and the boss overwrote my work.</b>
+    6+ Developer Experience. <br/>
+    🦀 Rustacean 🦀 <br/>
+    💻 Compilers 💻 <br/>
   </p>
 </div>
 
@@ -43,6 +43,8 @@
 [![NextJS](https://img.shields.io/static/v1?message=-&logoColor=white&style=for-the-badge&label=NextJS&logo=next.js&labelColor=black)](https://nextjs.org)
 [![Vite](https://img.shields.io/static/v1?message=-&logoColor=white&style=for-the-badge&label=Vite&logo=vite&labelColor=646CFF)](https://vitejs.dev)
 [![Express](https://img.shields.io/static/v1?message=-&logoColor=white&style=for-the-badge&label=Express&logo=Express&labelColor=black)](https://expressjs.com/)
+[![Svelte](https://img.shields.io/static/v1?message=-&logoColor=white&style=for-the-badge&label=Svelte&logo=Svelte&labelColor=orange)](https://svelte.dev/)
+[![Astro](https://img.shields.io/static/v1?message=-&logoColor=white&style=for-the-badge&label=Astro&logo=Astro&labelColor=black)](https://astro.build/)
 
 <img height="100" />
 </div>
@@ -61,6 +63,6 @@
 <div align="right">
 
 [![Linux](https://img.shields.io/static/v1?message=-&logoColor=white&style=for-the-badge&label=linux&logo=linux)](https://en.wikipedia.org/wiki/GNU/Linux)
-[![Windows](https://img.shields.io/static/v1?message=Actual&logoColor=white&style=for-the-badge&label=windows&logo=windows&labelColor=0078D6)](https://www.microsoft.com/windows)
+[![Windows](https://img.shields.io/static/v1?message=-&logoColor=white&style=for-the-badge&label=windows&logo=windows&labelColor=0078D6)](https://www.microsoft.com/windows)
 
 </div>
