@@ -5,7 +5,7 @@
   <p>
     Welcome.<br/>
     I'm Brayan, a boy who learns very quickly. <br/>
-    6+ Developer Experience. <br/>
+    6+ years Developer Experience. <br/>
     🦀 Rustacean 🦀 <br/>
     💻 Compilers 💻 <br/>
   </p>
