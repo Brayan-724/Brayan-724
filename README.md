@@ -4,8 +4,8 @@
   <h1>Apika Luca</h1>
   <p>
     Welcome.<br/>
-    I'm Brayan, a boy who learns very quickly. <br/>
-    7+ years Developer Experience. <br/>
+    I'm Brayan, a guy who learns very quickly. <br/>
+    8+ years Developer Experience. <br/>
     🦀 Rustacean 🦀 <br/>
     💻 Compilers 💻 <br/>
   </p>
